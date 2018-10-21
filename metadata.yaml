@@ -1,5 +1,5 @@
 _repo: Serge-Panine-Volume-01_3914
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcc 'PQ'
 - !lcsh 'Paris (France) -- Fiction'
 - !lcsh 'French fiction -- Translations into English'
+- GITenberg
 title: Serge Panine — Volume 01
 url: http://www.gutenberg.org/ebooks/3914
